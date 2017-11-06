@@ -1,4 +1,4 @@
-Module for SkeekS CMS
+Base app module v3project for skeeks cms
 ===================================
 
 [![Latest Stable Version](https://poser.pugx.org/v3project/core-app/v/stable.png)](https://packagist.org/packages/v3project/core-app)
