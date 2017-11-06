@@ -1,5 +1,5 @@
 {
-    "name": "v3project/core-app",
+    "name": "v3project/aff-core-app",
     "description": "Base app module v3project for skeeks cms",
     "keywords": ["module", "cms", "skeeks", "sx", "app", "yii2"],
     "homepage": "https://skeeks.com/",

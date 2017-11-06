@@ -3,9 +3,9 @@
 
 [![skeeks!](https://cms.skeeks.com/uploads/all/35/fd/33/35fd33aa306823dbaf53a0142d43b3fa.png)](https://cms.skeeks.com)
 
-[![Latest Stable Version](https://poser.pugx.org/v3project/core-app/v/stable.png)](https://packagist.org/packages/v3project/core-app)
-[![Total Downloads](https://poser.pugx.org/v3project/core-app/downloads.png)](https://packagist.org/packages/v3project/core-app)
-[![Dependency Status](https://www.versioneye.com/php/v3project:core-app/dev-master/badge.png)](https://www.versioneye.com/php/v3project:core-app/dev-master)
+[![Latest Stable Version](https://poser.pugx.org/v3project/aff-core-app/v/stable.png)](https://packagist.org/packages/v3project/aff-core-app)
+[![Total Downloads](https://poser.pugx.org/v3project/aff-core-app/downloads.png)](https://packagist.org/packages/v3project/aff-core-app)
+[![Dependency Status](https://www.versioneye.com/php/v3project:aff-core-app/dev-master/badge.png)](https://www.versioneye.com/php/v3project:aff-core-app/dev-master)
 
 
 Установка
@@ -15,7 +15,7 @@
 
 ```
 "require": {
-    "v3project/core-app": "^1.0"
+    "v3project/aff-core-app": "^1.0"
 },
 ```
 
