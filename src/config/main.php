@@ -20,6 +20,11 @@ $config = [
         'cmsAgent' => [
             'onHitsEnabled'     => false
         ],
+
+        'cmsSettingsExternalLinks' =>
+        [
+            'enabled'           => true,
+        ],
     ],
 ];
 
