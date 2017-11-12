@@ -24,7 +24,7 @@
         "skeeks/yii2-template-smarty-asset": "1.1.5",
         "skeeks/cms-external-links": "~1.2.0",
         "skeeks/cms-instagram-widget": "~1.1.0",
-        "skeeks/cms-tree-redirect": ~1.0.0
+        "skeeks/cms-tree-redirect": "~1.0.0"
         "v3toys/skeeks": "~2.1.5",
         "yiisoft/yii2-debug": "*"
     },
