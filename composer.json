@@ -15,7 +15,6 @@
             "email": "semenov@skeeks.com"
         }
     ], 
-    "minimum-stability": "dev",
     "require": {
         "skeeks/cms-basic-shop": "~1.0.0",
         "skeeks/cms-vk-comments": "~1.2.0",
@@ -25,10 +24,8 @@
         "skeeks/cms-external-links": "~1.2.0",
         "skeeks/cms-instagram-widget": "~1.1.0",
         "skeeks/cms-tree-redirect": "~1.0.0",
-        "v3toys/skeeks": "~2.1.6"
-    },
-    "require-dev": {
-    	"yiisoft/yii2-debug": "*"
+        "v3toys/skeeks": "~2.1.6",
+        "yiisoft/yii2-debug": "*"
     },
     "autoload": {
         "psr-4": {
