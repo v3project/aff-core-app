@@ -16,7 +16,7 @@
         }
     ], 
     "require": {
-        "skeeks/cms-basic-shop": "~1.0.0",
+        "skeeks/cms-basic-shop": "~1.0.0 || dev-master",
         "skeeks/cms-vk-comments": "~1.2.0",
         "skeeks/cms-ya-share": "~2.0.0",
         "skeeks/cms-vk-community": "~1.2.0",
