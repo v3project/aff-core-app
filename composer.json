@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "v3project\\affcoreapp\\": "src/"
+            "v3project\\aff\\": "src/"
         }
     },
     "extra": {

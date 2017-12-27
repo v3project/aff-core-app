@@ -1,5 +1,7 @@
-Базовый пакет(модуль) Аффилиата на SkeekS CMS (Yii2)
+@deprecated
 =========================
+
+##Базовый пакет(модуль) Аффилиата на SkeekS CMS (Yii2)
 
 [![skeeks!](https://cms.skeeks.com/uploads/all/35/fd/33/35fd33aa306823dbaf53a0142d43b3fa.png)](https://cms.skeeks.com)
 
