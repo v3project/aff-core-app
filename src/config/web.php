@@ -6,24 +6,21 @@
  * @date 06.11.2017
  */
 $config = [
-    'components'    =>
-    [
+    'components' => [
         'cache' => [
             'class' => 'yii\caching\FileCache',
         ],
 
-        'assetManager' =>
-        [
-            'linkAssets'        => true,
+        'assetManager' => [
+            'linkAssets' => true,
         ],
 
         'cmsAgent' => [
-            'onHitsEnabled'     => false
+            'onHitsEnabled' => false,
         ],
 
-        'cmsSettingsExternalLinks' =>
-        [
-            'enabled'           => true,
+        'cmsSettingsExternalLinks' => [
+            'enabled' => true,
         ],
     ],
 ];
