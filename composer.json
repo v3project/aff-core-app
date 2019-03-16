@@ -27,7 +27,7 @@
 
         "skeeks/cms-tree-redirect": "^1.0.0",
 
-        "v3project/skeeks": "^3.0.1 || dev-master",
+        "v3project/skeeks": "^3.0.1 || dev-master"
     },
     "autoload": {
         "psr-4": {
